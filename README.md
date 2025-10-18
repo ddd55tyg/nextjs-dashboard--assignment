@@ -2,7 +2,8 @@
 
 ## 🎥 Recorded Demo Overview
 
-This recorded demo showcases a complete *Responsive Dashboard Application* built using *Next.js, React, Tailwind CSS, Redux Toolkit, and Recharts*.
+This recorded demoshowcases a complete *Responsive Dashboard Application* built using *Next.js, React, Tailwind CSS, Redux Toolkit, and Recharts*.
+URL:(https://drive.google.com/file/d/1CoCXny980GRMbtTH7B0yxwnVNuvlGg-u/view?usp=drivesdk)
 
 The demo highlights:
 
